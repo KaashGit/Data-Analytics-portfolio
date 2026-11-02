@@ -1,0 +1,4 @@
+﻿OrderID,OrderDate,Region,SalesRep,Product,Category,Units,UnitPrice,DiscountPct,NetSales,UnitCost,TotalCost
+SO010001,2026-01-07,,Jordan Lee,Keyboard,Accessories,2,58.00,0.00,174.00,25.00,75.00
+QA_BAD_001,2026-01-05,East,Casey Rivera,Tablet,Computers,-3,520.00,0.00,-100.00,340.00,1700.00
+QA_BAD_002,not-a-date,West,Casey Rivera,Standing Desk,Furniture,1,abc,0.00,420.00,275.00,275.00
