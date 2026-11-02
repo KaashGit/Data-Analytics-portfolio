@@ -1,0 +1,66 @@
+﻿OrderID,OrderDate,Region,SalesRep,Product,Category,Units,UnitPrice,DiscountPct,NetSales,UnitCost,TotalCost
+SO100001,2026-03-14,East,Alex Morgan,Docking Station,Accessories,4,161.70,0.10,582.12,94.00,376.00
+SO100002,2026-03-15,West,Taylor Chen,Desk Chair,Furniture,1,181.30,0.00,181.30,108.00,108.00
+SO100003,2026-03-10,North,Morgan Shah,Standing Desk,Furniture,2,420.00,0.00,840.00,275.00,550.00
+SO100004,2026-03-12,West,Morgan Shah,Office Monitor,Accessories,2,245.00,0.00,490.00,145.00,290.00
+SO100005,2026-03-09,North,Morgan Shah,Docking Station,Accessories,2,165.00,0.00,330.00,94.00,188.00
+SO100006,2026-03-12,South,Casey Rivera,Printer,Office Equipment,4,310.00,0.10,1116.00,205.00,820.00
+SO100007,2026-03-12,North,Taylor Chen,Desk Chair,Furniture,8,185.00,0.00,1480.00,108.00,864.00
+SO100008,2026-03-11,North,Casey Rivera,Standing Desk,Furniture,3,411.60,0.00,1234.80,275.00,825.00
+SO100009,2026-03-13,West,Taylor Chen,Keyboard,Accessories,1,59.16,0.10,53.24,25.00,25.00
+SO100010,2026-03-10,North,Alex Morgan,Webcam HD,Accessories,1,78.00,0.00,78.00,39.00,39.00
+SO100011,2026-03-10,South,Morgan Shah,Webcam HD,Accessories,1,79.56,0.10,71.60,39.00,39.00
+SO100012,2026-03-10,East,Morgan Shah,Tablet,Computers,10,520.00,0.15,4420.00,340.00,3400.00
+SO100013,2026-03-10,South,Morgan Shah,Office Monitor,Accessories,4,245.00,0.20,784.00,145.00,580.00
+SO100014,2026-03-12,South,Alex Morgan,Standing Desk,Furniture,8,428.40,0.00,3427.20,275.00,2200.00
+SO100015,2026-03-11,East,Morgan Shah,Keyboard,Accessories,3,58.00,0.00,174.00,25.00,75.00
+SO100016,2026-03-13,North,Jamie Patel,Office Monitor,Accessories,3,249.90,0.00,749.70,145.00,435.00
+SO100017,2026-03-11,North,Casey Rivera,Laptop Pro,Computers,1,1150.00,0.05,1092.50,790.00,790.00
+SO100018,2026-03-15,West,Jordan Lee,Docking Station,Accessories,4,165.00,0.20,528.00,94.00,376.00
+SO100019,2026-03-11,East,Alex Morgan,Desk Chair,Furniture,2,185.00,0.05,351.50,108.00,216.00
+SO100020,2026-03-15,West,Alex Morgan,Webcam HD,Accessories,2,76.44,0.15,129.95,39.00,78.00
+SO100021,2026-03-10,South,Casey Rivera,Desk Chair,Furniture,5,185.00,0.00,925.00,108.00,540.00
+SO100022,2026-03-14,West,Jamie Patel,Laptop Pro,Computers,8,1150.00,0.10,8280.00,790.00,6320.00
+SO100023,2026-03-11,South,Alex Morgan,Keyboard,Accessories,1,58.00,0.15,49.30,25.00,25.00
+SO100024,2026-03-15,East,Casey Rivera,Keyboard,Accessories,3,59.16,0.15,150.86,25.00,75.00
+SO100025,2026-03-10,East,Jamie Patel,Printer,Office Equipment,1,316.20,0.05,300.39,205.00,205.00
+SO100026,2026-03-15,South,Jordan Lee,Standing Desk,Furniture,2,411.60,0.10,740.88,275.00,550.00
+SO100027,2026-03-11,North,Morgan Shah,Standing Desk,Furniture,8,420.00,0.00,3360.00,275.00,2200.00
+SO100028,2026-03-12,East,Alex Morgan,Tablet,Computers,3,520.00,0.10,1404.00,340.00,1020.00
+SO100029,2026-03-14,South,Alex Morgan,Printer,Office Equipment,2,303.80,0.00,607.60,205.00,410.00
+SO100030,2026-03-12,East,Jordan Lee,Office Monitor,Accessories,4,240.10,0.00,960.40,145.00,580.00
+SO100031,2026-03-15,South,Taylor Chen,Webcam HD,Accessories,5,79.56,0.00,397.80,39.00,195.00
+SO100032,2026-03-12,East,Alex Morgan,Desk Chair,Furniture,2,185.00,0.15,314.50,108.00,216.00
+SO100033,2026-03-09,North,Jamie Patel,Laptop Pro,Computers,2,1150.00,0.00,2300.00,790.00,1580.00
+SO100034,2026-03-11,East,Alex Morgan,Desk Chair,Furniture,3,181.30,0.15,462.32,108.00,324.00
+SO100035,2026-03-09,West,Casey Rivera,Laptop Pro,Computers,1,1150.00,0.00,1150.00,790.00,790.00
+SO100036,2026-03-12,North,Jordan Lee,Wireless Mouse,Accessories,1,32.00,0.05,30.40,12.00,12.00
+SO100037,2026-03-09,East,Alex Morgan,Laptop Pro,Computers,4,1173.00,0.00,4692.00,790.00,3160.00
+SO100038,2026-03-12,East,Jordan Lee,Wireless Mouse,Accessories,3,31.36,0.00,94.08,12.00,36.00
+SO100039,2026-03-09,South,Casey Rivera,Printer,Office Equipment,2,303.80,0.00,607.60,205.00,410.00
+SO100040,2026-03-12,West,Jordan Lee,Wireless Mouse,Accessories,6,32.00,0.00,192.00,12.00,72.00
+SO100041,2026-03-10,West,Alex Morgan,Office Monitor,Accessories,5,245.00,0.00,1225.00,145.00,725.00
+SO100042,2026-03-11,West,Taylor Chen,Laptop Pro,Computers,2,1150.00,0.00,2300.00,790.00,1580.00
+SO100043,2026-03-13,North,Casey Rivera,Keyboard,Accessories,3,58.00,0.10,156.60,25.00,75.00
+SO100044,2026-03-15,East,Taylor Chen,Laptop Pro,Computers,4,1127.00,0.15,3831.80,790.00,3160.00
+SO100045,2026-03-15,West,Morgan Shah,Tablet,Computers,8,509.60,0.05,3872.96,340.00,2720.00
+SO100046,2026-03-10,North,Jordan Lee,Desk Chair,Furniture,2,181.30,0.00,362.60,108.00,216.00
+SO100047,2026-03-12,South,Jordan Lee,Webcam HD,Accessories,2,79.56,0.15,135.25,39.00,78.00
+SO100048,2026-03-13,North,Taylor Chen,Printer,Office Equipment,8,303.80,0.10,2187.36,205.00,1640.00
+SO100049,2026-03-14,North,Morgan Shah,Docking Station,Accessories,10,161.70,0.00,1617.00,94.00,940.00
+SO100050,2026-03-12,East,Jamie Patel,Standing Desk,Furniture,1,411.60,0.00,411.60,275.00,275.00
+SO100051,2026-03-12,West,Jamie Patel,Tablet,Computers,2,520.00,0.10,936.00,340.00,680.00
+SO100052,2026-03-12,South,Jordan Lee,Laptop Pro,Computers,1,1127.00,0.00,1127.00,790.00,790.00
+SO100053,2026-03-12,East,Jordan Lee,Webcam HD,Accessories,10,79.56,0.10,716.04,39.00,390.00
+SO100054,2026-03-14,West,Morgan Shah,Tablet,Computers,2,520.00,0.10,936.00,340.00,680.00
+SO100055,2026-03-09,South,Alex Morgan,Office Monitor,Accessories,1,249.90,0.15,212.41,145.00,145.00
+SO100056,2026-03-14,West,Jamie Patel,Printer,Office Equipment,3,310.00,0.05,883.50,205.00,615.00
+SO100057,2026-03-15,North,Jordan Lee,Keyboard,Accessories,5,58.00,0.15,246.50,25.00,125.00
+SO100058,2026-03-14,North,Morgan Shah,Wireless Mouse,Accessories,5,31.36,0.10,141.12,12.00,60.00
+SO100059,2026-03-12,West,Alex Morgan,Wireless Mouse,Accessories,3,32.64,0.05,93.02,12.00,36.00
+SO100060,2026-03-15,North,Jamie Patel,Laptop Pro,Computers,6,1150.00,0.15,5865.00,790.00,4740.00
+SO100061,2026-03-12,East,Taylor Chen,Printer,Office Equipment,1,310.00,0.10,279.00,205.00,205.00
+SO100062,2026-03-13,North,Casey Rivera,Desk Chair,Furniture,6,185.00,0.05,1054.50,108.00,648.00
+SO100063,2026-03-10,North,Jamie Patel,Webcam HD,Accessories,1,78.00,0.05,74.10,39.00,39.00
+SO100064,2026-03-09,South,Taylor Chen,Printer,Office Equipment,1,316.20,0.05,300.39,205.00,205.00
+SO100065,2026-03-09,East,Taylor Chen,Wireless Mouse,Accessories,5,32.00,0.05,152.00,12.00,60.00
