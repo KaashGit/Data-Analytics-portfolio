@@ -8,7 +8,7 @@ Hands-on analytics projects in Excel, SQL, Power Query, Power BI, and DAX.
 Excel dashboard for summarizing sales performance and communicating key trends.
 - Tools: Excel and the analysis/dashboard features used in the final workbook.
 - Focus: sales KPIs, performance summaries, and dashboard communication.
-- [Project README](01-Sales-Analytics-Excel-Dashboard/README.md)
+- [Project README](01-Sales-Analytics-Excel-Dashboard/README_Sales_Analytics_Dashboard.md)
 
 ### 2. Customer Churn & Retention Analysis
 Analyzed customer churn across contract, tenure, internet service, payment method, and monthly-charge segments.
